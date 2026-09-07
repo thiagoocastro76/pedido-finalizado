@@ -272,6 +272,7 @@ main {
 }
 
 .section-story--with-background {
+  position: relative;
   min-height: auto;
 }
 
